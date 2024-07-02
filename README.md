@@ -1,6 +1,5 @@
 # SERU-Test-Database
 
-Anda
 CREATE TABLE teachers (
     id INT AUTO_INCREMENT,
     name VARCHAR(100),
@@ -43,3 +42,4 @@ INSERT INTO students (name, age, class_id) VALUES ('Candra', 18, 3);
 4. buat query yang sama tapi menggunakan store_procedure
 
 5. buat query input, yang akan memberikan warning error jika ada data yang sama pernah masuk
+semua query dikumpulkan pada git melalui github/gitlab kalian
